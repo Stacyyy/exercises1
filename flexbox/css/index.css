@@ -1,0 +1,21 @@
+.container {
+  padding: 20px; }
+  .container .box1, .container .box2, .container .box3 {
+    border: 1px solid #f00;
+    width: 150px; }
+  .container [class^="box"] {
+    display: inline;
+    float: left; }
+  .container .box4 {
+    border: 1px solid #00f;
+    width: 150px; }
+  .container .box1 {
+    height: 120px; }
+  .container .box2 {
+    height: 100px; }
+  .container .box3 {
+    height: 40px; }
+  .container .box4 {
+    height: 200px; }
+
+/*# sourceMappingURL=index.css.map */
